@@ -40,46 +40,30 @@
 
 ---
 
-## 4. Potential publication venues (2027 cycles)
+## 4. Promising venues (2027 cycles)
 
-**Checked October 17, 2026.** Selected for recognizable research communities and concrete fit to shared memory / learning across coding-agent tasks; **not** an exhaustive CFP directory. All dates below are **2026** unless explicitly marked **2027**. Dates follow each CFP's timezone (usually **AoE = UTC−12**); MLSys specifies **20:00 UTC**. **—** means no *separate* abstract-registration deadline was listed; **TBA** means the individual workshop CFP/deadline is not confirmed. A short or vision paper still needs a differentiated contribution.
+*Checked Oct 17, 2026. Deadlines are in **2026** unless marked ’27. **—** = no separate abstract deadline; **TBA** = workshop call pending. Dates/format may change: use the linked CFP.*
 
-### Near-term calls, ordered roughly by paper deadline
-
-| Venue / official CFP | Abstract deadline | Paper deadline | What they ask for | Fleet-memory fit | Publication / important caveat |
+| Research community | Venue / CFP | Abstract | Paper | Asks for | Fit for FleetMem |
 |---|---|---|---|---|---|
-| [SANER 2027 — Agentic AI4SE](https://conf.researchr.org/track/saner-2027/saner-2027-agentic-ai4se-track) | **Oct 19** (mandatory) | **Oct 23** | Up to **10 pages**: sound methods/evidence for agentic software evolution, reliability, tools or evaluation. | **High — empirical coding-agent study.** | IEEE proceedings; very tight deadline. |
-| [ICSE 2027 — New Ideas & Emerging Results (NIER)](https://conf.researchr.org/track/icse-2027/icse-2027-new-ideas-and-emerging-results--nier-) | — | **Oct 23** | **4 pages + references**; original SE idea/emerging result, supporting rationale, mandatory **Future Plans** section. | **High — genuinely new question or preliminary result.** | Archival ICSE track; **not** a lower-standard full paper. |
-| [Agent Evaluation Science — Fall Symposium](https://evalscience.org/2026fall-nyc/submissions/) | **Oct 20** (registration) | **Oct 25** | **2-page** extended abstract or **4–6-page** short paper on audits, benchmarks, failures, negative results. | **High — diagnostic of coding-memory evaluation.** | **Non-archival**, presentation-only; remote presentation possible. |
-| [FORGE 2027 — Research / New Idea](https://conf.researchr.org/track/forge-2027/forge-2027-research-papers) | **Oct 25** | **Oct 30** | **4-page New Idea** (preliminary evaluation optional) or **10-page Full** research paper on foundation models for SE. | **High — new coding-agent memory concept.** | Archival conference; do not mistake a new-idea paper for an unevidenced literature summary. |
-| [MLSys 2027 — Research](https://mlsys.org/Conferences/2027/CallForResearchPapers) | — | **Oct 30, 20:00 UTC** | **10-page** original ML-systems research; agent infrastructure, storage, reliability, scalability, cost/latency tradeoffs. | **Conditional — substantial implemented systems result.** | Major archival systems venue; existing small pilot insufficient. |
-| [SANER 2027 — Registered Reports](https://conf.researchr.org/track/saner-2027/saner-2027-registered-report-track) | **Oct 30** | **Nov 6** (study plan) | **6-page Stage-1 protocol**, with research questions, prior work, planned methods and analyses **before** study execution. | **High — pre-registered memory-transfer evaluation.** | **Not** a completed-results research paper; journal pathway and stage requirements apply. |
-| [AAMAS 2027 — Blue Sky Ideas](https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-blue-sky-ideas/) | **Nov 5** | **Nov 12** | **4-page** ambitious, novel, well-grounded multi-agent research vision; explain its novelty and authors' relevant expertise. | **Very high — organizational learning across agent fleets.** | Archival AAMAS proceedings; **OpenReview author registration Oct 20** is a separate prerequisite. |
-| [AGENTVERIFY @ ICSE 2027](https://agentverify2027.github.io/cfp.html) | — | **Nov 13** | **2-page** extended abstract, **4-page** short/demo, or **8-page** full on agent validation, memory/skill reliability, harnesses and evaluations. | **High — causal failure analysis or verified memory.** | IEEE proceedings by default, **non-archival option**. **Current live CFP** says Nov 13 (supersedes earlier Nov 1/6 dates). |
-| [AGENT @ ICSE 2027](https://conf.researchr.org/track/icse-2027/agent-2027-papers) | — | **Nov 13** | **5-page** short position/emerging research/benchmark or **8-page** full on engineering, memory, coordination and governance of agents. | **High — write/share/read engineering questions.** | Archival IEEE workshop. |
-| [LLM4Code @ ICSE 2027](https://llm4code.github.io/call/) | — | **Nov 13** | **1–4-page** position, **1–5-page** extended abstract, or **4–8-page** research; coding-agent memory, context, evaluation, negative findings. | **Very high — direct coding-agent memory fit.** | IEEE proceedings with **non-archival option**. |
-| [ICSE 2027 — Industry Challenge](https://conf.researchr.org/track/icse-2027/icse-2027-industry-challenge) | — | **Nov 13** | **5–10-page solution paper** responding to a specific accepted industry challenge. | **Very high topic match, demanding execution:** *Agent Memory in the Wild: Reliability, Efficiency, and Evaluation*. | Must satisfy **challenge specification**; not a free-form idea submission. |
-| [FORGE 2027 — Data & Benchmarking](https://conf.researchr.org/track/forge-2027/forge-2027-data-and-benchmarking-track) | — | **Nov 15** | **4 pages + 1 reference page**: original benchmark, reproducible evaluation protocol, empirical audit, replication or meaningful negative findings. | **Very high — rigorous coding-memory evaluation.** | Archival; needs substantive reproducible artifact/evidence. |
-| [MSR 2027 — Registered Reports](https://2027.msrconf.org/track/msr-2027-registered-reports) | **Nov 13** | **Nov 20** (study plan) | **6-page Stage-1 study protocol** reviewed before data collection/analysis; future path to *Empirical Software Engineering*. | **High — planned causal study across repositories.** | Stage-1 feedback/in-principle acceptance is **not** a completed findings publication. |
-| [WMAC @ AAAI 2027](https://multiagents.org/2027/) | — | **Nov 20** | **4-page** short/demo/position or **8-page** full paper on collective intelligence in multi-agent systems. | **Very high — fleet-level knowledge sharing.** | **Non-archival**, suitable for early work. |
-| [AgenticSE @ AAAI 2027](https://agenticse-aaai.github.io/) | — | **Nov 20** | **4-page** short/position or **8-page** long on reliable software-engineering agents and repository-level benchmarks. | **High — software-agent experiments.** | **Non-archival** workshop. |
+| Multi-agent | [AAMAS Blue Sky](https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-blue-sky-ideas/) | Nov 5¹ | Nov 12 | 4p research vision | **High:** organizational learning |
+| Multi-agent | [WMAC @ AAAI](https://multiagents.org/2027/) | — | Nov 20 | 4p early idea / 8p full | **High:** fleet knowledge sharing |
+| Multi-agent | [AAMAS Workshops](https://warwick.ac.uk/fac/sci/dcs/aamas2027/) | TBA | TBA (Jan ’27 suggested) | Workshop-specific | **High:** multi-agent memory |
+| ML systems | [MLSys Research](https://mlsys.org/Conferences/2027/CallForResearchPapers) | — | Oct 30 | 10p systems research | **Stretch:** scalable memory + measurements |
+| Software engineering | [SANER Agentic AI4SE](https://conf.researchr.org/track/saner-2027/saner-2027-agentic-ai4se-track) | Oct 19 | Oct 23 | ≤10p empirical research | **High:** coding agents |
+| Software engineering | [ICSE NIER](https://conf.researchr.org/track/icse-2027/icse-2027-new-ideas-and-emerging-results--nier-) | — | Oct 23 | 4p new idea / emerging result | **High:** novel SE question |
+| Software engineering | [FORGE New Idea / Research](https://conf.researchr.org/track/forge-2027/forge-2027-research-papers) | Oct 25 | Oct 30 | 4p new idea / 10p full | **High:** coding-agent memory |
+| Software engineering | [SANER Registered Reports](https://conf.researchr.org/track/saner-2027/saner-2027-registered-report-track) | Oct 30 | Nov 6 | 6p *pre-study* protocol | **High:** rigorous experiment design |
+| Software engineering | [AGENTVERIFY @ ICSE](https://agentverify2027.github.io/cfp.html) | — | Nov 13 | 2p abstract / 4p short / 8p full | **High:** memory reliability |
+| Software engineering | [AGENT @ ICSE](https://conf.researchr.org/track/icse-2027/agent-2027-papers) | — | Nov 13 | 5p short / 8p full | **High:** agent memory and coordination |
+| Software engineering | [LLM4Code @ ICSE](https://llm4code.github.io/call/) | — | Nov 13 | Short / position / research | **High:** coding-agent context |
+| Software engineering | [ICSE Industry Challenge](https://conf.researchr.org/track/icse-2027/icse-2027-industry-challenge) | — | Nov 13 | 5–10p challenge solution | **High topic;** substantial solution required |
+| Software engineering | [FORGE Data & Benchmarking](https://conf.researchr.org/track/forge-2027/forge-2027-data-and-benchmarking-track) | — | Nov 15 | 4p benchmark / empirical audit | **High:** executable memory evaluation |
+| Software engineering | [MSR Registered Reports](https://2027.msrconf.org/track/msr-2027-registered-reports) | Nov 13 | Nov 20 | 6p *pre-study* protocol | **High:** empirical study design |
+| Software engineering | [EASE 2027](https://conf.researchr.org/home/ease-2027) | Jan 15 ’27 | Jan 22 ’27 | Full empirical SE study | **High:** causal evaluation |
+| General AI | [AgenticSE @ AAAI](https://agenticse-aaai.github.io/) | — | Nov 20 | 4p short / 8p full | **High:** agentic SE reliability |
+| General AI | [IJCAI 2027](https://2027.ijcai.org/) | Jan 4 ’27 | Jan 11 ’27 | Mature full research | **Stretch:** substantial novelty |
+| General ML | [ICLR 2027 Workshops](https://iclr.cc/Conferences/2027/WorkshopGuidelines) | TBA | TBA (Feb ’27 suggested) | Workshop-specific | **Conditional:** agent memory / lifelong learning |
+| Agents & evaluation | [Agent Evaluation Science Symposium](https://evalscience.org/2026fall-nyc/submissions/) | Oct 20 (register) | Oct 25 | 2p abstract / 4–6p short | **High:** evals or negative findings |
 
-### Later deadlines / more time to develop evidence
-
-| Venue / official CFP | Abstract deadline | Paper deadline | What they ask for | Fleet-memory fit | Publication / important caveat |
-|---|---|---|---|---|---|
-| [IJCAI 2027 — Main Research](https://2027.ijcai.org/) | **Jan 4, 2027** | **Jan 11, 2027** | Substantial original AI research with convincing theory or experiments. | **Conditional — mature collective-memory mechanism.** | Major archival AI conference; needs a robust contribution. |
-| [EASE 2027 — Research](https://conf.researchr.org/home/ease-2027) | **Jan 15, 2027** | **Jan 22, 2027** | Rigorous evidence-based SE research: experiments, validity, replications and actionable insights. | **High — empirical benefits/failures of coding memory.** | Archival; also has later short/emerging and negative-results tracks with separate CFPs. |
-| [AAMAS 2027 — Workshops](https://warwick.ac.uk/fac/sci/dcs/aamas2027/) | **TBA** | **TBA** (**Jan 24, 2027 suggested**) | Individual workshop research, early results, positions or demos depending on accepted CFP. | **Very high if a multi-agent learning/memory workshop is accepted.** | Workshops expected to post CFPs by **Dec 9, 2026**; Jan 24 is **not a universal firm deadline**. |
-| [ICLR 2027 — Workshops](https://iclr.cc/Conferences/2027/WorkshopGuidelines) | **TBA** | **TBA** (**Feb 1, 2027 suggested**) | Individual workshop short/tiny papers, preliminary studies, reanalysis or agent-learning research. | **High if an agent-memory / lifelong-learning workshop is accepted.** | Accepted workshop decisions due **Nov 29, 2026**; individual CFPs control deadlines and archival policy. |
-
-### How to select a target (not a claim of novelty)
-
-- **Vision / research agenda:** AAMAS Blue Sky; FORGE New Idea.
-- **Executable benchmark, replication, negative transfer or failure analysis:** FORGE Data & Benchmarking; AGENTVERIFY; LLM4Code; Agent Evaluation Science.
-- **Research design not yet executed:** MSR or SANER Registered Reports.
-- **Production-scale memory substrate:** MLSys (only with a substantial systems contribution).
-- **Collective-agent theory/behavior:** WMAC or a future AAMAS workshop.
-- **More time and a completed empirical study:** IJCAI or EASE.
-
-**Important:** A matching CFP does not establish a publishable research gap. Check the venue's originality, preprint, and concurrent-submission policies before reusing substantially overlapping manuscripts. Dates and formats can change; click each official CFP before submitting.
+¹ AAMAS Blue Sky also requires **OpenReview author registration by Oct 20**. **Registered Reports** evaluate proposed methodology, not completed results. Agent Evaluation Science, WMAC and AgenticSE are **non-archival**; other venues have their own publication policies.
